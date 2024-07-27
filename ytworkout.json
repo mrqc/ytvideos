@@ -1,4 +1,4 @@
-[
+{ "videos": [
     {"url": "https://www.youtube.com/watch?v=ldrG5GTgF_0", "length": 15, "bodyPart": "Shoulder", "startSecond": 30},
     {"url": "https://www.youtube.com/watch?v=jBPdbt0Fxb4", "length": 10, "bodyPart": "Shoulder", "startSecond": 100},
     {"url": "https://www.youtube.com/watch?v=r_sxBBLoLkQ", "length": 15, "bodyPart": "Shoulder", "startSecond": 30},
@@ -47,4 +47,4 @@
     {"url": "https://www.youtube.com/watch?v=n4fEKUXfTW0", "length": 25, "bodyPart": "FullBody", "startSecond": 15},
     {"url": "https://www.youtube.com/watch?v=ojs-UW8ULhs", "length": 60, "bodyPart": "FullBody", "startSecond": 31},
     {"url": "https://www.youtube.com/watch?v=mZErE1n4DuU", "length": 40, "bodyPart": "FullBody", "startSecond": 27}
-]
+]}
